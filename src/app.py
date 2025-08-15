@@ -1,5 +1,5 @@
 import streamlit as st
-from src.calculator import square, cube, fifth_power
+from calculator import square, cube, fifth_power
 
 # Streamlit UI
 st.title("Power Calculator")
