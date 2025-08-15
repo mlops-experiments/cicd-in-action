@@ -40,4 +40,3 @@ def cube(n):
 # Function to fifth power
 def fifth_power(n):
     return n ** 5
-
