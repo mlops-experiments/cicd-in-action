@@ -16,3 +16,16 @@ def divide(x, y):
 def power(x, y):
     """Return x raised to the power of y."""
     return x ** y
+
+# extend basic calculator functions
+# Function to square
+def square(n):
+    return n ** 2
+
+# Function to cube
+def cube(n):
+    return n ** 3
+
+# Function to fifth power
+def fifth_power(n):
+    return n ** 5
