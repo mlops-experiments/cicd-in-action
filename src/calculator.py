@@ -19,8 +19,6 @@ def divide(x, y):
     if y == 0:
         raise ValueError("Cannot divide by zero.")
     return x / y
-
-
 def power(x, y):
     """Return x raised to the power of y."""
     return x ** y
