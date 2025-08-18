@@ -1,5 +1,6 @@
 import streamlit as st
 from calculator import square, cube, fifth_power
+from calculator import add, subtract, multiply, divide, power
 
 # Streamlit UI
 st.title("Power Calculator")
